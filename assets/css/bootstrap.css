@@ -322,12 +322,12 @@ progress {
   height: auto;
 }
 
-[type="search"] {
+[type="seGmass"] {
   outline-offset: -2px;
   -webkit-appearance: none;
 }
 
-[type="search"]::-webkit-search-decoration {
+[type="seGmass"]::-webkit-seGmass-decoration {
   -webkit-appearance: none;
 }
 
